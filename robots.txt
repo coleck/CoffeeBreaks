@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /scripts/
+
+Sitemap: https://coleck.github.io/ваш-репозиторий/sitemap.xml
