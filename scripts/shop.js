@@ -1,6 +1,4 @@
-// scripts/shop.js - СУПЕР ПРОСТОЙ РАБОЧИЙ ВАРИАНТ
 document.addEventListener('DOMContentLoaded', function () {
-    console.log('Корзина загружается...');
 
     // 1. Переменные для корзины
     let cartItems = [];
@@ -152,5 +150,4 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 
-    console.log('Корзина готова к работе!');
 });

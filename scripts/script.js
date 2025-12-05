@@ -1,5 +1,3 @@
-// scripts/script.js - ДЛЯ ВСЕХ СТРАНИЦ
-
 // ========== КНОПКА "НАВЕРХ" ==========
 document.addEventListener('DOMContentLoaded', function () {
 
